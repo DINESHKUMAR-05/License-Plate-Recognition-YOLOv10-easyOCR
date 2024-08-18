@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project aims to develop an automated system for detecting and recognizing license plates from images, videos, and live video feeds. The system leverages state-of-the-art computer vision technologies, specifically YOLOv10 for object detection and EasyOCR for optical character recognition (OCR). 
+This project aims to develop an automated system for detecting and recognizing license plates from images, videos, and live video feeds. The system leverages state-of-the-art computer vision technologies, specifically YOLOv10n (Nano Architecture used for faster inferencing) for object detection and EasyOCR for optical character recognition (OCR). 
 
 ## Features
 
